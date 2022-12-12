@@ -1,0 +1,25 @@
+.app {
+  max-width: 1230px;
+  margin: 0 auto;
+}
+
+.app__inner {
+  padding: 0 15px;
+}
+
+.app__img {
+  width: 100%;
+}
+
+.file__item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.file__name {
+  display: inline;
+}
+
+.file__remove-btn {
+  display: inline;
+}

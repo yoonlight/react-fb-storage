@@ -1,0 +1,4 @@
+{
+  "*.{tsx,ts,scss,html}": "prettier --write",
+  "*.scss": "stylelint --fix"
+}
